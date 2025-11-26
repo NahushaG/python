@@ -1,0 +1,5 @@
+player_id,age,height_cm,weight_kg,position,goals_last_season,assists_last_season,matches_played,injury_days_last_year,sprint_speed_mps,stamina_score,success_score,risk_score
+p1,24,180,75,Forward,15,5,30,5,8.5,85,80,20
+p2,21,175,70,Midfielder,3,7,28,12,7.8,78,65,40
+p3,28,182,78,Defender,2,1,32,0,7.2,88,70,15
+
